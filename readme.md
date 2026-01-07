@@ -6,3 +6,6 @@ this is git cousre
 # this is feature 2.0
 
 # this is from bug branch
+
+
+# this commit 1
