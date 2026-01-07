@@ -109,3 +109,7 @@ public class tsp1_brute {
     bruteForceTSP(distances);
     }
 }
+// 
+// 
+// 
+// 

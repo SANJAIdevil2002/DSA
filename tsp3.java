@@ -71,3 +71,11 @@ public class tsp3 {
     tsp_chatgpt(distances);
     }
 }
+//check git
+// 
+// 
+// 
+// 
+// 
+// 
+// 
