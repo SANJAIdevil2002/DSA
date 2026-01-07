@@ -9,9 +9,3 @@ this is git cousre
 
 
 # this commit 1
-
-# this is commit 2
-
-# this commit 3
-
-# this commit 4
