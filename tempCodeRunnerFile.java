@@ -1,0 +1,1 @@
+        StringBuffer currentChar=new StringBuffer();
